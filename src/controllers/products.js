@@ -1,0 +1,1 @@
+export const productsPage = (req, res) => res.status(200).json({message: "oi"});
